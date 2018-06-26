@@ -7,4 +7,4 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 Caption here
-blabla
+bla - bla 2
